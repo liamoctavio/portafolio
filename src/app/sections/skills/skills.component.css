@@ -1,0 +1,41 @@
+.skills-section {
+    background-color: #f7f7f7;
+    margin-bottom: 50px;  /* Agrega espacio entre el formulario y el footer */
+
+  }
+  
+  .skills-section h2 {
+    font-size: 32px;
+  }
+  
+  .skill {
+    margin-bottom: 20px;
+  }
+  
+  .skill label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .progress-bar {
+    background-color: #007bff; /* Color personalizado de la barra de progreso */
+  }
+  
+  .d-flex {
+    display: flex;
+  }
+  
+  .justify-content-between {
+    justify-content: space-between;
+    margin-top: 5px;
+  }
+  
+  .list-group-item {
+    font-size: 16px;
+  }
+  
+  .list-group-item:hover {
+    background-color: #f1f1f1;
+  }
+  

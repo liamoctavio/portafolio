@@ -1,0 +1,44 @@
+.contact-section {
+    padding: 40px;
+    background-color: #f7f7f7;  /* Gris claro */
+    color: #333;
+    text-align: center;
+    max-width: 600px;  /* Establece un ancho máximo */
+    margin: 0 auto;  /* Centra el formulario */
+    border-radius: 10px;  /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  /* Sombra para resaltar el formulario */
+    margin-bottom: 50px;  /* Agrega espacio entre el formulario y el footer */
+
+  }
+  
+.contact-section .form-group {
+    margin-bottom: 15px;
+  }
+  
+.contact-section .form-control {
+    width: 100%;  /* Hace que el campo ocupe todo el ancho disponible */
+    max-width: 500px;  /* Limita el ancho máximo de los campos */
+    padding: 10px;
+    margin: 0 auto 10px auto;  /* Centra los campos y les da un poco de espacio entre ellos */
+    border-radius: 5px;
+    border: 1px solid #ccc;  /* Borde sutil */
+  }
+  
+  .contact-section button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  .contact-section button:disabled {
+    background-color: #999;
+  }
+  
+  .contact-section h2 {
+    margin-bottom: 20px;
+  }
+  
+  .contact-section p {
+    margin-bottom: 30px;
+  }
+  

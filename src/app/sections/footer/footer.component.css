@@ -1,0 +1,17 @@
+.footer {
+    background-color: #333;  /* Fondo oscuro */
+    color: white;
+    padding: 5px 0;  /* Reduce el padding para hacerlo más delgado (puedes ajustar el valor) */
+    text-align: center;
+  }
+  
+  .footer .container {
+    max-width: 1200px;  /* Limita el ancho máximo del contenido dentro del footer */
+    margin: 0 auto;  /* Centra el contenido del footer */
+  }
+  
+  .footer p {
+    margin: 0;  /* Elimina el margen para que el texto no tenga espacios adicionales */
+    font-size: 14px;  /* Ajusta el tamaño del texto para que se vea más compacto */
+  }
+  
