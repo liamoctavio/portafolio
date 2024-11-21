@@ -1,6 +1,6 @@
 .intro-section {
     height: 100vh;
-    background-image: url('/assets/foto-1.avif'); /* Reemplaza con tu imagen */
+    background-image: url('/assets/foto-1.avif'); 
     background-size: cover;
     background-position: center;
     position: relative;
@@ -12,7 +12,7 @@
     justify-content: center;
     align-items: center;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* Efecto oscuro */
+    background-color: rgba(0, 0, 0, 0.5); 
     color: white;
     text-align: center;
   }
@@ -33,7 +33,7 @@
   }
   
   #typed-text {
-    color: white
+    color: white;
     font-weight: bold;
   }
   
